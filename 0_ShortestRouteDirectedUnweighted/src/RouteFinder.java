@@ -1,5 +1,5 @@
 import java.util.*;
-/* > Given a Directed Unweighed Graph, Design an algorithm to find out shortest
+/* > Given a Directed Unweighted Graph, Design an algorithm to find out shortest
  * 	 route between two nodes if it exists.
  *   
  * > BFS Used
