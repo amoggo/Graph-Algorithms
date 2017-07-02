@@ -1,8 +1,8 @@
 import java.util.*;
-/*
- * > BFS
- * > Directed Graph
- * > UnWeighted Graph
+/* > Given a Directed Unweighed Graph, Design an algorithm to find out shortest
+ * 	 route between two nodes if it exists.
+ *   
+ * > BFS Used
  */
 
 public class RouteFinder implements Graph{
